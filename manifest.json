@@ -30,5 +30,11 @@
               "form_factor": "wide",
               "label": "Le chat de Bengal screenshots"
             }
-        ]
+        ],
+
+        "start_url": "index.html",
+        "display": "standalone",
+        "background_color": "#ffffff",
+        "theme_color": "#ffffff",
+        "lang": "fr"
 }
