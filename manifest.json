@@ -35,6 +35,7 @@
         "start_url": "index.html",
         "display": "standalone",
         "background_color": "#ffffff",
+        "description": "Le chat de bengal",
         "theme_color": "#ffffff",
         "lang": "fr",
         "orientation": "landscape"
